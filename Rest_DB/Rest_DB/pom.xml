@@ -54,6 +54,10 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<properties>
+  			<sonar.organization>cristian9212</sonar.organization>
+  			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		</properties>
 	</dependencies>
 
 	<build>
